@@ -1,6 +1,9 @@
 # Pinch - CLI tool for adding torrents to qBittorrent via Web API
 # Python dependencies:
 python-qbittorrent>=0.4.3
+imdbpy>=6.8
+requests>=2.25.0
+beautifulsoup4>=4.9.0
 
 # System requirements:
 # - qBittorrent running with Web UI enabled on 192.168.2.45:8080
